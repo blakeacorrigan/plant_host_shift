@@ -3,3 +3,5 @@ de Godoy, I.B.S., McGrane-Corrigan, B., Mason, O., de Andrade Moral, R. and Godo
 - Paper: https://www.sciencedirect.com/science/article/pii/S0304380022002733 
 
 - Contains all code needed to reproduce plots and empirical results.
+
+- Data files can be found at https://zenodo.org/records/6453797.
